@@ -54,6 +54,8 @@ In the command line, first run `npm install` to install the npm package dependen
 
 ## Solution:
 
+[GITHUB Repo](https://github.com/stewk033/tech-blog-MVC)
+
 ## Author
 
 Kevin Stewart
